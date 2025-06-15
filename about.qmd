@@ -1,19 +1,169 @@
 ---
 title: "About"
-image: profile.jpg
+image: vinayak.png
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/vinayakrana
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+      href: https://www.linkedin.com/in/vinayak-rana-a841bb243/
+---
+
+## 👋 Hey, I’m Vinayak
+
+I’m an MTech AI student at IIT Gandhinagar, where I turn real-world mess into stories that models can learn from.
+
+I'm an active member of the [Sustainability Lab](https://sustainability-lab.github.io/) led by [Prof. Nipun Batra](https://nipunbatra.github.io/), where we work on using machine learning to build smarter, greener systems that can actually make a difference on the ground.
+
+
+## 📝 Why I Write
+
+The best way to understand something deeply is to explain it simply.
+That’s why I write. Not just to teach, but to learn.
 
 ---
 
-About this blog
+::: columns
+::: column
+
+::: callout-important
+### 🧠 Beyond Code  
+Sure, LLMs can write functions.  
+But the *real work* is about the **intuition**, **trade-offs**, and **aha! moments** behind every decision.
+:::
+
+:::
+
+::: column
+
+::: callout-tip
+### 🔍 Learning Out Loud  
+If it challenged me, it’s worth writing down.  
+Because someone else is probably stuck in the same place.
+:::
+
+:::
+:::
+
+---
+
+::: columns
+::: column
+
+::: callout-note
+### 🧭 Not Just Tutorials  
+I don’t post just what works.  
+I post what confused me, what finally made sense, and how I *got there*.
+:::
+
+:::
+
+::: column
+
+::: callout-caution
+### 🔧 From Confusion to Clarity  
+Each post captures:
+- A mental model that clicked  
+- A mistake that taught me more than success  
+- A question that made me dig deeper  
+:::
+
+:::
+:::
+
+---
+
+::: callout-success
+### 🎯 My Rule of Thumb  
+If I had to Google it more than twice,  
+it deserves a permanent home — here.
+:::
+
+
+## 📚 What You'll Find Here
+
+::: columns
+::: column
+
+#### 🔍 Model Insights  
+Architectures, uncertainty, and training dynamics — broken down and explained.
+
+#### 🧠 Visual Stories  
+Animations, heatmaps, and sketches that help you "see" the concept.
+
+:::
+
+::: column
+
+#### ⚙️ Tools in Practice  
+FastAPI, Docker, Kubernetes, and how I use them in real workflows.
+
+#### 🌱 Learning Projects  
+From spatial prediction experiments to personal ML tooling, where theory meets practice.
+
+:::
+:::
+
+---
+
+## 🎯 What I Believe
+
+::: callout
+**Clarity > Complexity**  
+Great ideas don’t need jargon. If it’s complex, I try to make it simple.
+:::
+
+::: callout
+**Learn in Public**  
+If I’m struggling with something, I know someone else probably is too.
+:::
+
+::: callout
+**Build with Intent**  
+Good engineering starts with asking the right questions. (Btw there are no wrong questions)
+:::
+
+---
+
+## 🔗 Let’s Connect
+
+::: columns
+
+::: column
+
+### 🤝 Collaborate  
+Got an idea? Working on something cool?  
+I’m always open to collaborating on meaningful projects.
+
+### 💡 Feedback or Questions  
+Confused by something I wrote?  
+Curious to learn more or suggest a new topic?
+
+Reach out directly:  
+📧 [vinayak.rana@iitgn.ac.in](mailto:you@example.com)  
+🐦 [LinkedIn](https://www.linkedin.com/in/vinayak-rana-a841bb243/)
+
+:::
+
+::: column
+
+### 🐛 Found an Issue?  
+If something on the site is broken, unclear, or missing,
+please let me know!
+
+👉 [Open an issue](https://github.com/vinayakrana/Blog/issues) on GitHub  
+I welcome suggestions, corrections, and contributions.
+
+:::
+
+:::
+
+---
+
+Thanks for stopping by.  
+Let’s build, breathe, and learn together.
+
+

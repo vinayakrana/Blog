@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "I’m an MTech AI student at IIT Gandhinagar, where I turn real-world mess into stories that models can learn from.\nI’m an active member of the Sustainability Lab led by Prof. Nipun Batra, where we work on using machine learning to build smarter, greener systems that can actually make a difference on the ground."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,61 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html#why-i-write",
+    "href": "about.html#why-i-write",
+    "title": "About",
+    "section": "📝 Why I Write",
+    "text": "📝 Why I Write\nThe best way to understand something deeply is to explain it simply. That’s why I write. Not just to teach, but to learn.\n\n\n\n\n\n\n\n\n\n🧠 Beyond Code\n\n\n\nSure, LLMs can write functions.\nBut the real work is about the intuition, trade-offs, and aha! moments behind every decision.\n\n\n\n\n\n\n\n\n\n🔍 Learning Out Loud\n\n\n\nIf it challenged me, it’s worth writing down.\nBecause someone else is probably stuck in the same place.\n\n\n\n\n\n\n\n\n\n\n\n\n\n🧭 Not Just Tutorials\n\n\n\nI don’t post just what works.\nI post what confused me, what finally made sense, and how I got there.\n\n\n\n\n\n\n\n\n\n🔧 From Confusion to Clarity\n\n\n\nEach post captures: - A mental model that clicked\n- A mistake that taught me more than success\n- A question that made me dig deeper\n\n\n\n\n\n\n🎯 My Rule of Thumb\nIf I had to Google it more than twice,\nit deserves a permanent home — here."
+  },
+  {
+    "objectID": "about.html#what-i-believe",
+    "href": "about.html#what-i-believe",
+    "title": "About",
+    "section": "🎯 What I Believe",
+    "text": "🎯 What I Believe\n\n\n\n\n\n\nClarity &gt; Complexity\nGreat ideas don’t need jargon. If it’s complex, I try to make it simple.\n\n\n\n\n\n\n\n\n\nLearn in Public\nIf I’m struggling with something, I know someone else probably is too.\n\n\n\n\n\n\n\n\n\nBuild with Intent\nGood engineering starts with asking the right questions. (Btw there are no wrong questions)"
+  },
+  {
+    "objectID": "about.html#why-i-write-continued",
+    "href": "about.html#why-i-write-continued",
+    "title": "About",
+    "section": "",
+    "text": "Sure — code, GPT can also write.\nBut code is just the syntax.\nThe real value is in the intuitions, decisions, and trade-offs behind it.\nThat’s the part you only understand by building, struggling, refining, and then reflecting.\nThis blog isn’t just a collection of tutorials — it’s a map of the mental models I’m forming as I learn.\nIt’s about: - Why a model works (or doesn’t), - What a result means (and how to visualize it), - And how we can think better about the systems we design.\n\n\n\n\nIf it took effort to learn,\nthen it’s worth writing down —\nbecause someone else is probably on the same path.\n\nThat’s why I write.\nMy blog exists to make: - Technical concepts intuitive - Visualizations insightful - Ideas accessible"
+  },
+  {
+    "objectID": "about.html#what-i-share",
+    "href": "about.html#what-i-share",
+    "title": "About",
+    "section": "📚 What I Share",
+    "text": "📚 What I Share\n\n\n\n🧠 Model Insights\nBreakdowns of architectures, uncertainty, and learning curves\n\n📊 Visual Stories\nHeatmaps, GIFs, and interactive demos\n\n\n\n\n⚙️ Tools & Tricks\nDocker, Kubernetes, FastAPI, cloud hacks\n\n🚀 Side Projects\nFrom sensor‑placement simulators to DSA trackers"
+  },
+  {
+    "objectID": "about.html#guiding-principles",
+    "href": "about.html#guiding-principles",
+    "title": "About",
+    "section": "🎯 Guiding Principles",
+    "text": "🎯 Guiding Principles\n\n\n\n\n\n\n\nClarity &gt; Complexity\nI simplify rather than sensationalize.\n\n\n\n\n\n\n\n\n\n\n\nLearning is for everyone\nIf I stumble over it, I’ll write it down.\nMaybe it’ll help you at 2 A.M.\n\n\n\n\n\n\n\n\n\n\n\nBuild with purpose\nThoughtful engineering starts with understanding why.\n\n\n\n\n\n\n🔗 Get in Touch\n\n💬 Open an issue to suggest a topic\n\n📥 Email me for collabs or questions\n\n📣 Follow me on Twitter\n\n\nThanks for stopping by—let’s build, breathe, and learn together. 💻🌫️"
+  },
+  {
+    "objectID": "about.html#what-youll-find-here",
+    "href": "about.html#what-youll-find-here",
+    "title": "About",
+    "section": "📚 What You’ll Find Here",
+    "text": "📚 What You’ll Find Here\n\n\n\n🔍 Model Insights\nArchitectures, uncertainty, and training dynamics — broken down and explained.\n\n\n🧠 Visual Stories\nAnimations, heatmaps, and sketches that help you “see” the concept.\n\n\n\n⚙️ Tools in Practice\nFastAPI, Docker, Kubernetes, and how I use them in real workflows.\n\n\n🌱 Learning Projects\nFrom spatial prediction experiments to personal ML tooling, where theory meets practice."
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About",
+    "section": "🔗 Let’s Connect",
+    "text": "🔗 Let’s Connect\n\n\n\n🤝 Collaborate\nGot an idea? Working on something cool?\nI’m always open to collaborating on meaningful projects.\n\n\n💡 Feedback or Questions\nConfused by something I wrote?\nCurious to learn more or suggest a new topic?\nReach out directly:\n📧 vinayak.rana@iitgn.ac.in\n🐦 LinkedIn\n\n\n\n🐛 Found an Issue?\nIf something on the site is broken, unclear, or missing, please let me know!\n👉 Open an issue on GitHub\nI welcome suggestions, corrections, and contributions.\n\n\n\n\nThanks for stopping by.\nLet’s build, breathe, and learn — together."
+  },
+  {
+    "objectID": "about.html#hey-im-vinayak",
+    "href": "about.html#hey-im-vinayak",
+    "title": "About",
+    "section": "",
+    "text": "I’m an MTech AI student at IIT Gandhinagar, where I turn real-world mess into stories that models can learn from.\nI’m an active member of the Sustainability Lab led by Prof. Nipun Batra, where we work on using machine learning to build smarter, greener systems that can actually make a difference on the ground."
   }
 ]
