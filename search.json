@@ -18,7 +18,42 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "I’m an MTech AI student at IIT Gandhinagar, where I turn real-world mess into stories that models can learn from.\nI’m an active member of the Sustainability Lab led by Prof. Nipun Batra, where we work on using machine learning to build smarter, greener systems that can actually make a difference on the ground."
+  },
+  {
+    "objectID": "about.html#hey-im-vinayak",
+    "href": "about.html#hey-im-vinayak",
+    "title": "About",
+    "section": "",
+    "text": "I’m an MTech AI student at IIT Gandhinagar, where I turn real-world mess into stories that models can learn from.\nI’m an active member of the Sustainability Lab led by Prof. Nipun Batra, where we work on using machine learning to build smarter, greener systems that can actually make a difference on the ground."
+  },
+  {
+    "objectID": "about.html#why-i-write",
+    "href": "about.html#why-i-write",
+    "title": "About",
+    "section": "📝 Why I Write",
+    "text": "📝 Why I Write\nThe best way to understand something deeply is to explain it simply. That’s why I write. Not just to teach, but to learn.\n\n\n\n\n\n\n\n\n\n🧠 Beyond Code\n\n\n\nSure, LLMs can write functions.\nBut the real work is about the intuition, trade-offs, and aha! moments behind every decision.\n\n\n\n\n\n\n\n\n\n🔍 Learning Out Loud\n\n\n\nIf it challenged me, it’s worth writing down.\nBecause someone else is probably stuck in the same place.\n\n\n\n\n\n\n\n\n\n\n\n\n\n🧭 Not Just Tutorials\n\n\n\nI don’t post just what works.\nI post what confused me, what finally made sense, and how I got there.\n\n\n\n\n\n\n\n\n\n🔧 From Confusion to Clarity\n\n\n\nEach post captures: - A mental model that clicked\n- A mistake that taught me more than success\n- A question that made me dig deeper\n\n\n\n\n\n\n🎯 My Rule of Thumb\nIf I had to Google it more than twice,\nit deserves a permanent home — here."
+  },
+  {
+    "objectID": "about.html#what-youll-find-here",
+    "href": "about.html#what-youll-find-here",
+    "title": "About",
+    "section": "📚 What You’ll Find Here",
+    "text": "📚 What You’ll Find Here\n\n\n\n🔍 Model Insights\nArchitectures, uncertainty, and training dynamics — broken down and explained.\n\n\n🧠 Visual Stories\nAnimations, heatmaps, and sketches that help you “see” the concept.\n\n\n\n⚙️ Tools in Practice\nFastAPI, Docker, Kubernetes, and how I use them in real workflows.\n\n\n🌱 Learning Projects\nFrom spatial prediction experiments to personal ML tooling, where theory meets practice."
+  },
+  {
+    "objectID": "about.html#what-i-believe",
+    "href": "about.html#what-i-believe",
+    "title": "About",
+    "section": "🎯 What I Believe",
+    "text": "🎯 What I Believe\n\n\n\n\n\n\nClarity &gt; Complexity\nGreat ideas don’t need jargon. If it’s complex, I try to make it simple.\n\n\n\n\n\n\n\n\n\nLearn in Public\nIf I’m struggling with something, I know someone else probably is too.\n\n\n\n\n\n\n\n\n\nBuild with Intent\nGood engineering starts with asking the right questions. (Btw there are no wrong questions)"
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About",
+    "section": "🔗 Let’s Connect",
+    "text": "🔗 Let’s Connect\n\n\n\n🤝 Collaborate\nGot an idea? Working on something cool?\nI’m always open to collaborating on meaningful projects.\n\n\n💡 Feedback or Questions\nConfused by something I wrote?\nCurious to learn more or suggest a new topic?\nReach out directly:\n📧 vinayak.rana@iitgn.ac.in\n🐦 LinkedIn\n\n\n\n🐛 Found an Issue?\nIf something on the site is broken, unclear, or missing, please let me know!\n👉 Open an issue on GitHub\nI welcome suggestions, corrections, and contributions.\n\n\n\n\nThanks for stopping by.\nLet’s build, breathe, and learn together."
   },
   {
     "objectID": "posts/post-with-code/index.html",
